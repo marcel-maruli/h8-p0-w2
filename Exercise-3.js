@@ -2,7 +2,7 @@ var nama = "Nina";
 var peran = "Ksatria";
 
 if( nama === "" && peran === "") {
-    console.log("Nama harus diisi!");
+    console.log("Nama dan Peran harus diisi!");
 }
 
 if( nama === "Mikael") {
